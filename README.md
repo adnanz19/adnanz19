@@ -2,7 +2,7 @@
 An Informatics student with a solid background in web development and UI/UX design. Passionate about building effective digital solutions, from initial design concepts to final implementation.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bimadnndta/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bima-adnandita-126931285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bima.adnandita@gmail.com) 
 
 # 💻 Tech Stack:
